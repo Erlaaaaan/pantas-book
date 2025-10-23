@@ -56,9 +56,7 @@ export default function Hero() {
         
         {/* Bottom Rating Bar */}
         <div className="absolute bottom-0 left-0 right-0 text-white py-4 px-8" style={{backgroundColor: '#535466'}}>
-          <div className="text-center">
-            <span className="text-lg font-medium">4.9/5: Best-Rated Accounting Services</span>
-          </div>
+          
         </div>
       </div>
     </section>
