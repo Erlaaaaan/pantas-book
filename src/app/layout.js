@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Pantas Bookkeepers",
+  title: "Erlan & Eya's Wedding",
   description: "Professional accounting services for your business",
 };
 
