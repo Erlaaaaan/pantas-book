@@ -1,3 +1,4 @@
+import EnvelopeGate from "./components/EnvelopeGate";
 import Header from "./components/header";
 import Hero from "./components/hero";
 import Services from "./components/services";
@@ -7,13 +8,12 @@ import Footer from "./components/footer";
 
 export default function Home() {
   return (
-    <div className="font-sans" style={{backgroundColor: '#c9ccc6'}}>
-      <Header />
-      <Hero />
-      <Services />
-      <About />
-      <Map />
-      <Footer />
-    </div>
+    <EnvelopeGate>
+      <div className="font-sans" style={{ backgroundColor: "#c9ccc6" }}>
+        <Header />
+        <Hero />
+       
+      </div>
+    </EnvelopeGate>
   );
 }
