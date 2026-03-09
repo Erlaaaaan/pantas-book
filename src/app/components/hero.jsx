@@ -118,7 +118,7 @@ export default function Hero() {
               className="text-xs font-semibold uppercase tracking-[0.3em] mb-3"
               style={{ color: "#9E1C60" }}
             >
-              Saturday • 10 January 2026
+              Saturday • 14 April 2028
             </div>
             <div className="space-y-2 text-sm" style={{ color: "#811844" }}>
               <p>3:00 PM Ceremony • 5:00 PM Reception</p>
